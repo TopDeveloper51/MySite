@@ -1,7 +1,7 @@
 {
     "headerData": {
-        "name": "Daniel Ricciardo",
-        "title": "WEB & MOBILE DEVELOPER",
+        "name": "Henri Hasler",
+        "title": "Senior Web & Blockchain DEVELOPER",
         "desciption": "My biggest motivation? Just to keep challenging myself. I see life almost like one long University education — every day I’m learning something new.",
         "image": "/assets/avatar/avatar.png",
         "defaultAvatar": "/assets/avatar/default.png",
@@ -12,8 +12,8 @@
     },
     "aboutData": {
         "title": "Who I am",
-        "description1": "My name's Daniel. I'm a web and mobile developer based in Warsaw, Poland.",
-        "description2": "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at Python and Django. I love to learn and explore new areas.",
+        "description1": "My name's Henri. I'm a senior web and blockchain developer based in Bern, Switzerland.",
+        "description2": "A Senior Software Engineer specializing in distributed systems and Web3 technologies. I’ve launched multiple Ethereum Mainnet contracts, assisted with over 10 blockchain patent applications, created an NFT, and delivered MVPs. My expertise includes Web2 back-end services, data analysis, and work on multimillion-dollar projects. I enjoy system design and am adept at creating technical solutions around business use cases",
         "image": 1,
         "configuration": {
             "rightMode": true
@@ -30,10 +30,10 @@
             },
             {
                 "id": 2,
-                "institution": "University of Lodz",
+                "institution": "University of Zurich",
                 "course": "Bachelor of Computer Science",
                 "startYear": "2012",
-                "endYear": "2015"
+                "endYear": "2016"
             }
         ],
         "configuration": {
@@ -63,31 +63,31 @@
         "content": [
             {
                 "id": 1,
-                "company": "FIVELY",
-                "jobtitle": "JUNIOR FRONTEND & REACT DEVELOPER",
-                "startYear": "2016",
-                "endYear": "2017"
+                "company": "Upwork, Freelancer",
+                "jobtitle": "Freelancer",
+                "startYear": "03/2017",
+                "endYear": "10/2020"
             },
             {
                 "id": 2,
-                "company": "THE SOFTWARE HOUSE",
-                "jobtitle": "Web Developer",
-                "startYear": "2017",
-                "endYear": "2019"
+                "company": "CRMgrow",
+                "jobtitle": "Full Stack Developer",
+                "startYear": "08/2020",
+                "endYear": "05/2022"
             },
             {
                 "id": 3,
-                "company": "STEELKIWI",
-                "jobtitle": "Full stack developer",
-                "startYear": "2019",
-                "endYear": "2019"
+                "company": "Trivergance LLC",
+                "jobtitle": "Senior Full Stack Developer",
+                "startYear": "07/2022",
+                "endYear": "06/2023"
             },
             {
                 "id": 4,
-                "company": "CodeEpsilonSTX NEXT",
-                "jobtitle": "Senior Full Stack Developer",
-                "startYear": "2020",
-                "endYear": "2022"
+                "company": "Next Level Media",
+                "jobtitle": "Senior Software Engineer",
+                "startYear": "10/2023",
+                "endYear": "02/2024"
             }
         ],
         "configuration": {
@@ -343,9 +343,9 @@
         }
     ],
     "contactsData": {
-        "email": "champion5star247963@gmail.com",
-        "phone": "+48 74 548 0397",
-        "address": "ul. Breeding 94, Warsaw, Poland",
+        "email": "henrihasler077@gmail.com",
+        "phone": "+1 617 302 7967",
+        "address": "Muhlestrasse 15, 2501, Bern, Switzerland",
         "sheetAPI": ""
     },
     "socialsData": {
